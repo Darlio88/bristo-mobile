@@ -9,6 +9,7 @@ This mobile application enables bristo restaurant sell their food items to custo
 * react-redux/redux
 * react-navigation
 * redux-persist
+* react-native-vector-icons
   
 ## SCREENSHOTS
 
