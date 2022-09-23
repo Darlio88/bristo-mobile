@@ -3,7 +3,7 @@
 ## OVERVIEW
 This mobile application enables bristo restaurant sell their food items to customers of which the customers can add the food items they want to purchase to their carts and order for them 
 
-# tECH STACKS AND LIBRARIES
+# TECH STACKS AND LIBRARIES
 * react native
 * tailwind css
 * react-redux/redux
